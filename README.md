@@ -5,7 +5,6 @@
 <a href="https://www.facebook.com/shariful.islam.19755"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://instagram.com/sharif_ul__islam"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://tiktok.com/@Xhariful104"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" alt="TikTok"></a>
-<a href="https://mastodon.social/@Shariful"><img src="https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white" alt="Mastodon"></a>
 <a href="mailto:sharifulpc04@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
 
 # 💻 Tech Stack:
